@@ -2,9 +2,13 @@
 Summarize form JVM Meetup #15 @ Menara BCA Office
 
 JVM Meetup #15 : JVM Talks about Data
+
 Thursday, 20 December 2018
+
 From 6 PM - 9.30 PM
+
 @ Menara BCA 22nd Floor - Breakout Room
+
 Jl MH Thamrin No. 1 Jakarta Pusat
 
 Speaker :
