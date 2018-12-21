@@ -13,7 +13,7 @@ Jl MH Thamrin No. 1 Jakarta Pusat
 
 Speaker :
 
-1. Welly Tambunan (CTO Andal Software) -> [Time Machine with Apache Family.](https://drive.google.com/open?id=1oZIB5WnVroojak762l--r20cBBc1y5-G)
+1. Welly Tambunan (CTO Andal Software) -> [Time Machine with Apache Family.](https://drive.google.com/open?id=1ux0M0HURRtHiu82jNrFYZe5YzCbjx2Pz)
 2. Eko Kurniawan Khannedy (Senior RnD Blibli) -> [Elasticsearch : No More Slow Query.](https://drive.google.com/open?id=1fyt9GC7GA6VvthcHhO1BgaAC8Vd1FuhM)
 
 ![Poster JVM Meetup 15](img/jvm15_poster.jpg "Poster JVM Meetup 15")
