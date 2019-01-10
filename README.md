@@ -20,7 +20,7 @@ Speaker :
 
 #### Photo Session
 
-![Photo SessionJVM Meetup 15](img/jvm15_photo.jpg "Photo Session JVM Meetup 15")
+![Photo Session JVM Meetup 15](img/jvm15_photo.jpg "Photo Session JVM Meetup 15")
 
 
 Ayo join JVM User Group di telegram untuk diskusi lebih lanjut.
